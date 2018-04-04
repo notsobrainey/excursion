@@ -1,0 +1,32 @@
+.copy_right {
+	text-align: right;
+}
+
+body {
+	background-color: black;
+	font-family: Verdana;
+	text-align: center;
+}
+h1 {
+	font-size: 50px;
+	text-align: center;
+}
+h1, h2 {
+	color: white;
+}
+
+h2 {
+	font-size: 42px;
+	font-weight: 300;
+}
+
+a{
+	color: aquamarine;
+	font-size: 16px;	
+}
+
+p {
+	color: gray;
+	font-size: 21px;
+}
+
